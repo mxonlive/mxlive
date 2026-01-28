@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "953856540956",
+    "project_id": "mxlive-app",
+    "storage_bucket": "mxlive-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953856540956:android:6759d57ccf2166c43dfad9",
+        "android_client_info": {
+          "package_name": "com.mxlive.tv.mxlive"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC04TYZoaP5FHmwsAhAuUu6Th8XEZcfqs8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
